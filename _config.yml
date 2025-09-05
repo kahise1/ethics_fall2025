@@ -22,9 +22,9 @@ repository               : "https://kahise1.github.io/ethics_fall2025"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "_.jpeg"
   name             : "Luvinga Kahise" #update
-  pronouns         : "Hi/Him" # example: "Hi/Him"  
+  pronouns         : "He/Him" # example: "Hi/Him"  
   bio              : "Short biography for the left hand sidebar"
   employer         : "St. Olaf College"
   uri              : # URL
