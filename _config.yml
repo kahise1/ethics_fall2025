@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Luvinga Kahise" #update
-  pronouns         : # example: "Hi/Him"  
+  pronouns         : "Hi/Him" # example: "Hi/Him"  
   bio              : "Short biography for the left hand sidebar"
   employer         : "St. Olaf College"
   uri              : # URL
