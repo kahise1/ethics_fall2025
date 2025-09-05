@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Name] Computes Ethics" #update to your name
+title: "Luvinga Kahise Computes Ethics" #update to your name
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ This page is meant for you to showcase your case study, podcasts, and blog posts
 
 About Me
 ---
-My name is [First Last]. I’m a [Computer Science] student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my [B.S] in [majors]. You can also talk about internships you've had [if applicable]
+My name is Luvinga kahise. I’m a Computer Science student in the Mathematics, Statistics, and Computer Science Department(https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.A in Computer Science and Quantitative Economics. You can also talk about internships you've had [if applicable]
 
 Research 
 ---
