@@ -13,9 +13,9 @@ title                    : "Computing Ethics"
 title_separator          : "-"
 name                     : &name 
 description              : &description 
-url                      : https://chefs-kiss.github.io/ethics_fall2025 #  Use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://kahise1.github.io/ethics_fall2025 #  Use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/chefs-kiss/ethics_fall2025" 
+repository               : "https://kahise1.github.io/ethics_fall2025" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,12 +23,12 @@ repository               : "https://github.com/chefs-kiss/ethics_fall2025"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "First Last" #update
-  pronouns         : # example: "she/her"  
+  name             : "Luvinga Kahise" #update
+  pronouns         : # example: "Hi/Him"  
   bio              : "Short biography for the left hand sidebar"
   employer         : "St. Olaf College"
   uri              : # URL
-  email            : #"[username]@stolaf.edu" #update
+  email            : "kahise1@stolaf.edu" #"[username]@stolaf.edu" #update
 
   # links
   academia         : # URL
