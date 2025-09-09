@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Luvinga Kahise" #update
   pronouns         : "He/Him" # example: "Hi/Him"  
-  bio              : "Quantitative Economics and Computer Science student at St. Olaf College. I enjoy exploring the intersection of technology and finance, and I’m always curious about how tech can solve real-world problems"
+  bio              : "Quantitative Economics and Computer Science student at St. Olaf College."
   employer         : "St. Olaf College"
   uri              : # URL
   email            : "kahise1@stolaf.edu" #"[username]@stolaf.edu" #update
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Luvinga kahise" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
