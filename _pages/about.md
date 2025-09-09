@@ -12,16 +12,16 @@ This page is meant for you to showcase your case study, podcasts, and blog posts
 
 About Me
 ---
-My name is Luvinga kahise. I’m a Computer Science student in the Mathematics, Statistics, and Computer Science Department(https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.A in Computer Science and Quantitative Economics. You can also talk about internships you've had [if applicable]
+My name is Luvinga kahise. I’m a Computer Science student in the <a href="https://wp.stolaf.edu/mscs/" target="_blank">Mathematics, Statistics, and Computer Science Department at St. Olaf College. I'm earning my B.A in Computer Science and Quantitative Economics.
 
 Research 
 ---
-What topics are you currently interested in researching, or have already done in your major studies.
-What topics are you interested in learning about regarding ethics.
+I am interested in studying how technology and economics can be used to address real-world challenges in a sustainable way. 
+I am also interested in exploring questions of ethics, especially around:How artificial intelligence can sometimes be unfair and treat people unequally
 
 Personal Life
 ---
-Update to give a little background on you and your interests.
+I enjoy learning about technology in general, mostly the grouth of artificial intelligence. I like playing fotball on my free time and mobile games. I am a big fan of racing movies and I love cars. 
 
 
 For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
