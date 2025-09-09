@@ -12,7 +12,7 @@ This page is meant for you to showcase your case study, podcasts, and blog posts
 
 About Me
 ---
-My name is Luvinga kahise. I’m a Computer Science student in the <a href="https://wp.stolaf.edu/mscs/" target="_blank">Mathematics, Statistics, and Computer Science Department at St. Olaf College. I'm earning my B.A in Computer Science and Quantitative Economics.
+My name is Luvinga kahise. I’m a Computer Science student in the <a href="https://wp.stolaf.edu/mscs/" target="_blank">Mathematics, Statistics, and Computer Science Department</a> at St. Olaf College. I'm earning my B.A in Computer Science and Quantitative Economics.
 
 Research 
 ---
