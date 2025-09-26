@@ -9,6 +9,8 @@ tags:
   - AI
 ---
 
+Exploring how data-driven rules and exceptions raise questions about fairness, human judgment, and the role of algorithms in decision-making.
+
 **Case study:**  
 [The Right to Be an Exception to a Data-Driven Rule ](https://mit-serc.pubpub.org/pub/right-to-be-exception/release/2)
 
