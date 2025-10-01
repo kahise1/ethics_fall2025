@@ -37,9 +37,5 @@ The case study also pointed out that AI isn’t just “virtual.” Training mod
 If generative AI depends on massive datasets and computation, how can we balance innovation with fairness for creators whose work is used and for the environment that bears the cost?
 I included this question because the reading showed me how creativity, exploitation, and sustainability are interconnected. It pushes us to think about whether we should slow down progress until we can make AI more fair and sustainable.
 
-## My New Question
-If exceptions are allowed, who should decide them: humans, algorithms, or both?
-I came up with this question because it points to issues of trust, fairness, and who should be responsible in decision-making.
-
 ## Reflection
 Writing this blog helped me connect the technical side of AI with real-world ethical issues. At first, I thought of AI mainly in terms of usefulness, but now I see how questions of consent, labor, and environmental cost are just as important. I also realized my own role as a user: I benefit from these tools, but I have to think critically about where they come from and what they cost. AI can be valuable, but we can’t ignore what it takes to sustain it.
