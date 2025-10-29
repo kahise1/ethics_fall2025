@@ -5,7 +5,7 @@ permalink: /podcasts/podcast1
 excerpt: "Exploring how social media can bring people closer but also cause distance in real-life relationships"
 date: 2025-09-26
 audio: ethics_fall2025/files/Kahise_Rincon_podcast_3.mp3
-video: ethics_fall2025/files/Kahise_Rincon_podcast_3.mp4
+video: ethics_fall2025/files/smaller_podcast.mp4
 image: ethics_fall2025/files/Data_visualization.png
 ---
 In this episode, we explore how social media shapes modern relationships — from staying connected across distances to the growing issue of digital distraction. Using data and personal reflections, we discuss how constant online engagement can strengthen virtual ties but weaken real-life connection. 
