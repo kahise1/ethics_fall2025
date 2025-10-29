@@ -1,7 +1,7 @@
 ---
 title: "Podcast 3: When Connection Becomes Disconnection"
 collection: podcasts
-permalink: /podcasts/podcast1
+permalink: /podcasts/podcast3
 excerpt: "Exploring how social media can bring people closer but also cause distance in real-life relationships"
 date: 2025-09-26
 audio: ethics_fall2025/files/Kahise_Rincon_podcast_3.mp3
