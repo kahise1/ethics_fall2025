@@ -41,7 +41,7 @@ How should we decide when not to use machine learning at all? For example, are t
 The case study emphasizes mitigation, but sometimes the ethical choice might be to stop using AI altogether. Not every task should be automated. This question pushes us to think beyond fixing bias and toward asking whether AI is appropriate in the first place.
 
 ## Reflection
-This assignment helped me see bias in AI as more than just “fixing the dataset.” Every stage—from data collection to deployment—can introduce harm. AI doesn’t operate in a vacuum; it inherits history and shapes the future.
+This case study helped me understand that AI fairness is not just about fixing the data, every step in the process matters. AI can benefit people, but only if ethical considerations are addressed early on. It made me realize that developers must think about real people, not just accuracy numbers.
 It also made me wonder: are the biases we see in AI similar to the stereotypes around us, and is it healthy to reproduce them in the tech industry?
 
-Fairness requires understanding context, not just optimizing accuracy scores. Ethical AI isn’t only a technical challenge—it’s a social one. Technology doesn’t just reflect society—it shapes it. We share the responsibility to question, improve, and sometimes reject systems that can cause harm.
+Overall, fairness requires understanding context, not just optimizing for accuracy. Ethical AI isn’t just a technical challenge but it’s a social challenge too. Technology doesn’t just reflect society but it shapes it too. All individuals share the responsibility to question, improve, and sometimes reject systems that can cause harm to our socities.
