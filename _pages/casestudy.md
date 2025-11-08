@@ -14,7 +14,7 @@ This case study explores the issue of racial bias in AI skin-cancer diagnostic t
 ## Choose a section to explore:
 - [Background Information](/casestudy/background/)
 - [Ethical Focus](/casestudy/ethicalfocus/)
-- [Go to stakeholders](/casestudy/Stakeholders/)
+- [Go to stakeholders](/casestudy/stakeholders/)
 - [Go to activity page](/casestudy/activity/)
 - [Audience Pages:](/casestudy/audiences/)
     - Patients and Healthcare Users
