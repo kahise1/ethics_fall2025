@@ -11,10 +11,15 @@ Artificial Intelligence (AI) is transforming healthcare by helping doctors detec
 This case study explores the issue of racial bias in AI skin-cancer diagnostic tools, focusing on the ethical dilemma between innovation and fairness. It examines how unbalanced training data can lead to health disparities, who is affected, and what actions can ensure justice and safety for all patients. Finally, the study discusses possible solutions such as requiring diverse medical datasets, fairness testing, and stronger oversight before AI tools are used in clinical settings.
 
 ---
+
 ## Choose a section to explore:
 - [Background Information](background/)
 - [Ethical Focus](ethicalfocus/)
-- [Go to stakeholder 1](Stakeholder1/)
-- [Go to stakeholder 2](Stakeholder2/) 
+- [Go to stakeholders](Stakeholders/)
 - [Go to activity page](activity/)
+- [Audience Pages:](audiences/)
+    - Patients and Healthcare Users
+    - Meidcal Professionslas and Hospitals
+    - AI Developers and Policymakers
+- [Discussion Questions](discussionquestions/)
 - [Citation](citations/)
