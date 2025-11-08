@@ -1,4 +1,5 @@
 ---
+permalink: /casestudy/activity/
 title: "Activity"
 layout: default
 ---
