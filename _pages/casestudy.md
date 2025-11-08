@@ -1,17 +1,20 @@
 ---
 permalink: /casestudy/
-title: "Case Study"
+title: "Artificial Intelligence in Healthcare: Addressing Racial Bias in Skin Cancer Detection"
 author_profile: true
 ---
 
-Drop spot for your case study work
 
-## Overview
+## ABSTRACT
+Artificial Intelligence (AI) is transforming healthcare by helping doctors detect diseases faster and more accurately. One growing use is in skin cancer diagnosis, where AI systems analyze images to identify cancerous spots. However, recent research shows that many of these systems perform less accurately on darker skin tones because they are trained mostly on images of lighter skin. This creates an ethical challenge: while AI can save lives through early detection, it may also harm underrepresented groups by giving unequal results.
 
-For your semester project, you and a partner will create an original case study
-modeled after those we read in class. Your case study must present an ethical issue in computing and can focus on any topic of your choosing. Some possible ideas include algorithmic bias and discrimination, surveillance technologies, facial recognition, data privacy, misinformation and deepfakes, generative AI and authorship, the climate impact of computing, digital labor and gig work, cybersecurity and hacking, accessibility and inclusion in technology, militarization of technology, AI companionship and social robotics, and cryptocurrency, though you are encouraged to select a topic not found on this list if it aligns with your interests and research.
+This case study explores the issue of racial bias in AI skin-cancer diagnostic tools, focusing on the ethical dilemma between innovation and fairness. It examines how unbalanced training data can lead to health disparities, who is affected, and what actions can ensure justice and safety for all patients. Finally, the study discusses possible solutions such as requiring diverse medical datasets, fairness testing, and stronger oversight before AI tools are used in clinical settings.
 
-## Requirements
-
-Your case study will take the form of a website (built with Jekyll and GitHub Pages) that presents an ethical issue in computing. You will identify and research an ethical issue in computing or AI, write accessible content tailored for three different audiences, include an interactive activity that helps readers learn and reflect on the issue, and develop a set of discussion questions to spark engagement and deeper thinking. Your project must be engaging, well-researched, cite sources appropriately, and be designed for multiple audiences.
-
+---
+## Choose a section to explore:
+- [Background Information](background/)
+- [Ethical Focus](ethicalfocus/)
+- [Go to stakeholder 1](Stakeholder1/)
+- [Go to stakeholder 2](Stakeholder2/) 
+- [Go to activity page](activity/)
+- [Citation](citations/)
