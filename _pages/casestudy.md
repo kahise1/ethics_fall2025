@@ -1,5 +1,5 @@
 ---
-permalink: /_casestudy/
+permalink: /casestudy/
 title: "Artificial Intelligence in Healthcare: Addressing Racial Bias in Skin Cancer Detection"
 author_profile: true
 ---
