@@ -4,7 +4,6 @@ title: "Artificial Intelligence in Healthcare: Addressing Racial Bias in Skin Ca
 author_profile: true
 ---
 
-
 ## ABSTRACT
 Artificial Intelligence (AI) is transforming healthcare by helping doctors detect diseases faster and more accurately. One growing use is in skin cancer diagnosis, where AI systems analyze images to identify cancerous spots. However, recent research shows that many of these systems perform less accurately on darker skin tones because they are trained mostly on images of lighter skin. This creates an ethical challenge: while AI can save lives through early detection, it may also harm underrepresented groups by giving unequal results.
 
@@ -13,13 +12,13 @@ This case study explores the issue of racial bias in AI skin-cancer diagnostic t
 ---
 
 ## Choose a section to explore:
-- [Background Information](/_casestudy/background/)
-- [Ethical Focus](/_casestudy/ethicalfocus/)
-- [Go to stakeholders](/_casestudy/Stakeholders/)
-- [Go to activity page](/_casestudy/activity/)
-- [Audience Pages:](/_casestudy/audiences/)
+- [Background Information](/casestudy/background/)
+- [Ethical Focus](/casestudy/ethicalfocus/)
+- [Go to stakeholders](/casestudy/Stakeholders/)
+- [Go to activity page](/casestudy/activity/)
+- [Audience Pages:](/casestudy/audiences/)
     - Patients and Healthcare Users
     - Meidcal Professionslas and Hospitals
     - AI Developers and Policymakers
-- [Discussion Questions](/_casestudy/discussionquestions/)
-- [Citation](/_casestudy/citations/)
+- [Discussion Questions](/casestudy/discussionquestions/)
+- [Citation](/casestudy/citations/)
