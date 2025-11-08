@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/
+permalink: /_casestudy/
 title: "Artificial Intelligence in Healthcare: Addressing Racial Bias in Skin Cancer Detection"
 author_profile: true
 ---
@@ -13,13 +13,13 @@ This case study explores the issue of racial bias in AI skin-cancer diagnostic t
 ---
 
 ## Choose a section to explore:
-- [Background Information](background/)
-- [Ethical Focus](ethicalfocus/)
-- [Go to stakeholders](Stakeholders/)
-- [Go to activity page](activity/)
-- [Audience Pages:](audiences/)
+- [Background Information](/_casestudy/background/)
+- [Ethical Focus](/_casestudy/ethicalfocus/)
+- [Go to stakeholders](/_casestudy/Stakeholders/)
+- [Go to activity page](/_casestudy/activity/)
+- [Audience Pages:](/_casestudy/audiences/)
     - Patients and Healthcare Users
     - Meidcal Professionslas and Hospitals
     - AI Developers and Policymakers
-- [Discussion Questions](discussionquestions/)
-- [Citation](citations/)
+- [Discussion Questions](/_casestudy/discussionquestions/)
+- [Citation](/_casestudy/citations/)
