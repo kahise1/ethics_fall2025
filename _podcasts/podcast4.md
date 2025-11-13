@@ -1,7 +1,7 @@
 ---
 title: "Podcast 4:  Black Mirror Writers’ Room"
 collection: podcasts
-permalink: /podcasts/podcast3
+permalink: /podcasts/podcast4
 excerpt: "Exploring near-future technologies that challenge identity, control, and morality."
 date: 2025-11-12
 audio: ethics_fall2025/files/Podcast4.mp3
