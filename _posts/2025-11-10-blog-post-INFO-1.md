@@ -1,7 +1,7 @@
 ---
 title: 'INFO Blog 1: Censorship, Trust, and Free Speech on Social Media'
 date: 2025-11-10
-permalink: /posts/2025/09/blog-post-INFO-1/
+permalink: /posts/2025/11/blog-post-INFO-1/
 tags:
   - social-media
   - misinformation
