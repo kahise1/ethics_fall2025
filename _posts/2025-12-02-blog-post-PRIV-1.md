@@ -28,10 +28,10 @@ Before examining deeper issues such as law enforcement access or the right to er
 ### What Does “Deleting” Actually Mean?
 Most digital systems do not erase data immediately. Instead, they delete references to the data. The file, message, or image remains on the storage device until it is overwritten, which may take days, months, or never happen at all. Cloud platforms complicate this further because a single file can exist in multiple locations, all with different retention policies.
 
-This means that for example when someone deletes an Instagram photo or a Google document, the user version disappears, but internal versions may live on in backups, recycled server copies, or long-term logs. “Delete,” in this sense, often means “hide from the user”—not “destroy forever.”
+This means that for example when someone deletes an Instagram photo or a Google document, the user version disappears, but internal versions may live on in backups, recycled server copies, or long-term logs. “Delete,” in this sense, often means “hide from the user” not “destroy forever.”
 
 ### Why is it hard to fully Erase digital data
-Deleting data is technically difficult because modern storage is built for durability, not destruction. Systems automatically create backups, replicate content across servers, and store metadata for security or recovery. Full erasure requires coordinated deletion across every location the data exists—something most platforms are not designed to guarantee.
+Deleting data is technically difficult because modern storage is built for durability, not destruction. Systems automatically create backups, replicate content across servers, and store metadata for security or recovery. Full erasure requires coordinated deletion across every location the data exists, something most platforms are not designed to guarantee.
 
 On top of that, secure deletion methods (like cryptographic erasure or physical overwriting) introduce performance costs that companies want to avoid. As a result, remnants accumulate whether users want them to or not.
 
@@ -47,15 +47,15 @@ Some countries support strong privacy protections, for example the EU’s “rig
 This is another place where values collide. Strong encryption protects personal data from hackers, corporations, and foreign governments. But it also blocks investigators—even with a warrant.
 Giving the government a “backdoor” sounds like a balanced solution, but any backdoor becomes a security weakness that others can exploit. Most experts argue that a system cannot be both fully secure and selectively breakable.
 
-And as I reflect on this, I can’t help noticing that people with wealth or influence often have access to stronger privacy protections than ordinary users. High-profile data leaks show how uneven digital security can be, raising deeper questions about fairness and inequality in the design of technology.
+And as I reflect on this, I can’t help noticing that people with wealth or influence often have access to stronger privacy protections than ordinary users. High profile data leaks show how uneven digital security can be, raising deeper questions about fairness and inequality in the design of technology.
 
 ### Can a system be both fully secure and selectively breakable?
-Most experts say no. You either have strong security for everyone, or weak security for everyone. There is no in-between.
-And in practice, powerful people and institutions often enjoy better security than ordinary users. This creates an imbalance: wealthy or influential people may protect their data, while the average user remains exposed to leaks, hacks, or unwanted retention. High-profile data leaks show how fragile our systems can be and how little control individuals truly have. A backdoor for one group becomes a vulnerability for everyone
+Most experts say no. You either have strong security for everyone, or weak security for everyone. There is no in between.
+And in practice, powerful people and institutions often enjoy better security than ordinary users. This creates an imbalance: wealthy or influential people may protect their data, while the average user remains exposed to leaks, hacks, or unwanted retention. High profile data leaks show how fragile our systems can be and how little control individuals truly have. A backdoor for one group becomes a vulnerability for everyone
 
 ## My Discussion Question
 After reading the case study and thinking through these questions, I also came up with one question:
-**If full deletion becomes possible, should companies be required to honor it immediately—even if it weakens their backups, security systems, or business models? And who should enforce this: government regulators, independent auditors, or the companies themselves?**
+**If full deletion becomes possible, should companies be required to honor it immediately even if it weakens their backups, security systems, or business models? And who should enforce this: government regulators, independent auditors, or the companies themselves?**
 I asked this because I was thinking of in day to day activities at least once a week someone do hit "Delete". And in general we think that we actually got ride of the data we intend to make it disaper. But what is deleting teacknicalyy it is.
 
 ## Reflection
