@@ -1,7 +1,7 @@
 ---
 title: "Podcast 5:   This Is Your Brain on Memes"
 collection: podcasts
-permalink: /podcasts/podcast4
+permalink: /podcasts/podcast5
 excerpt: "Exploring how memes shape our minds and influence the world around us"
 date: 2025-12-04
 audio: ethics_fall2025/files/meme_podcast.mp3
