@@ -4,10 +4,9 @@ date: 2025-12-02
 permalink: /posts/2025/12/blog-Blog Reflc/
 
 ---
-
 This blog explores my journey as a writer and the lessons I learn through each post.
----
 
+---
 Looking back at the blogs I wrote this semester, the one that stands out the most is my post on machine learning harms, **BIAS Blog 2**. I chose this as my “most informative” blog because it pushed me to understand the machine learning lifecycle more deeply than I had before. The case study outlined seven sources of harm, and writing about historical and representation biases helped me connect those ideas to my own experiences—like Siri misunderstanding my accent or LinkedIn making narrow assumptions about my career interests. These moments made the post feel rich and meaningful. It also challenged me to think beyond the idea that “data is biased” and recognize that every step of technical development involves an ethical choice.
 
 Another post that meant a lot to me was **INFO Blog 1**, where I wrote about misinformation and censorship. This blog felt more personal, especially when I reflected on the rumor in Tanzania about poisoned water during an election. Remembering how scared people were made me realize how fast misinformation can spread and how much harm it can cause. While writing this post, I noticed a shift in my writing—I felt more comfortable connecting course ideas to real events in my life instead of only summarizing what the article said.
