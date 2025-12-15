@@ -1,7 +1,7 @@
 ---
 permalink: /casestudy/activity/
 title: "Activity"
-layout: default
+layout: single
 ---
 Content for your interactive activity.
 

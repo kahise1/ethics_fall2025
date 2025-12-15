@@ -1,5 +1,6 @@
 ---
+permalink: /casestudy/citation/
 title: "Citations"
-layout: default
+layout: single
 ---
 Drop spot for citations used.

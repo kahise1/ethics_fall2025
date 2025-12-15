@@ -280,10 +280,10 @@ defaults:
       path: ""
       type: casestudy
     values:
-      layout: casestudy
+      layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""

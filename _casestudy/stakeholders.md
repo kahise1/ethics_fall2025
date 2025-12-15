@@ -1,7 +1,7 @@
 ---
 permalink: /casestudy/stakeholders/
 title: "Stakeholders"
-layout: default
+layout: single
 ---
 **STAKEHOLDERS:**
 ## 1. Patients (Especially Darker-Skin Patients)

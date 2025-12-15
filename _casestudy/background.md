@@ -1,7 +1,7 @@
 ---
 permalink: /casestudy/background/
 title: "Background Information"
-layout: default
+layout: single
 ---
 **Artificial intelligence (AI)** is increasingly being applied into healthcare systems to support clinical decision-making, aiming to improve diagnostic accuracy, and help clinicians detect diseases earlier. Today one of the major application of AI in medicine is dermatological diagnosis, including the identification of skin cancer from medical images. So Artificial Intelligence aligorithms are used. They are created by feeding a computer hundreds of thousands or even millions of images of skin conditions labeled with information such as diagnosis and patient outcome. Through a process called deep learning, the computer eventually learns to recognize telltale patterns in the images that correlate with specific skin diseases including cancers. Once trained, an algorithm written by the computer can be used to suggest possible diagnoses based on an image of a patient's skin that it has not been exposed to.
 
