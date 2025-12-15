@@ -31,7 +31,7 @@ By the end of this case study, participants should be able to:
 Learn about AI in healthcare and how it is used for skin cancer detection and how ethical frameworks are embedded on the issue.  
 Additional infromation on ethical focus- [Ethical Focus](08-ethicalfocus/)
 
-[Data and Bia](02-databias/)
+[Data and Bias](02-databias/)
 
 Explore how training datasets can create racial bias and affect diagnostic accuracy.
 
