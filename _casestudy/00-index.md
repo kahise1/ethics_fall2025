@@ -12,11 +12,24 @@ nav_order: 0
 This case study examines racial bias in AI skin-cancer diagnostic tools, focusing on ethical dilemmas between innovation and fairness. It explores how unbalanced training data can harm patients with darker skin, identifies affected stakeholders, and discusses solutions such as diverse datasets, fairness testing, and regulatory oversight.
 
 ---
+## Learning Objectives
+By the end of this case study, participants should be able to:
+
+1. Understand AI in dermatology: Describe how AI systems are trained and used to detect skin cancer.
+
+2. Identify ethical challenges: Recognize how biased training data can affect diagnostic accuracy and patient outcomes.
+
+3. Assess impacts on stakeholders: Explain how patients, clinicians, hospitals, and AI developers are affected by unequal AI performance.
+
+4. Consider ethical responsibilities: Discuss strategies for ensuring fairness, equity, and transparency in AI deployment.
+
+5. Reflect on decision-making: Apply ethical reasoning to determine how healthcare organizations can responsibly implement AI tools.
 
 ## Choose a section to explore:
 [Background Information & Ethical Focus](01-background/)
 
 Learn about AI in healthcare and how it is used for skin cancer detection and how ethical frameworks are embedded on the issue.  
+Additional infromation on ethical focus- [Ethical Focus](08-ethicalfocus/)
 
 [Data and Bia](02-databias/)
 

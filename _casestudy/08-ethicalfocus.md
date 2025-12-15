@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/ethicalfocus/
+permalink: /casestudy/08-ethicalfocus/
 title: "Ethical Focus"
 layout: single
 ---
@@ -36,5 +36,6 @@ Assentially, addressing racial bias in AI skin cancer diagnostics is not just a 
 
 
 
-[⬅️ Back to Main Case study](/ethics_fall2025/casestudy)
+[⬅️ Back to Background page](/ethics_fall2025/01-background)
+
 [⬅️ Back to Main Case study](/ethics_fall2025/casestudy)

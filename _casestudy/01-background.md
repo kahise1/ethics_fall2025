@@ -18,5 +18,6 @@ This case study will explore these issues by applying the Ethical Decision-Makin
 
 *To read more about Ethical focus please visit This page [Ethical Focus](ethicalfocus/)*
 
-[⬅️ Back to Background page](/ethics_fall2025/01-background)
+
+[⬅️ Back to Main Case study](/ethics_fall2025/casestudy)
 

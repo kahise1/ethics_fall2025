@@ -3,7 +3,6 @@ permalink: /casestudy/04-activity/
 title: "Activity: Spot the Bias – AI in Dermatology"
 layout: single
 ---
-
 ## Objective of the activity:
 Explore how AI diagnostic tools can be biased and understand the ethical implications for patients, clinicians, and healthcare organizations.
 

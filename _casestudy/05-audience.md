@@ -3,7 +3,6 @@ permalink: /casestudy/05-audience/
 title: "Audience "
 layout: single
 ---
-
 ## Patients and Healthcare Users
 AI can help doctors detect skin cancer earlier and more accurately, but it may work less well for darker skin tones. Learn how AI might be used in your care, what questions to ask about your diagnosis, and how your data is used. Understanding these issues helps you make informed decisions and advocate for fair treatment.
 

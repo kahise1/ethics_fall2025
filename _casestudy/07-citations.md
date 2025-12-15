@@ -3,7 +3,6 @@ permalink: /casestudy/07-citations/
 title: "Citations"
 layout: single
 ---
-
 ## References
 Conger, K. (2024, April 9). [AI improves accuracy of skin cancer diagnoses in Stanford Medicine-led study](https://med.stanford.edu/news/all-news/2024/04/ai-skin-diagnosis.html#:~:text=A%20new%20study%20led%20by,that%20seen%20for%20non%2Ddermatologists). Stanford Medicine.
 
