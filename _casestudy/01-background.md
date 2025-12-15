@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/background/
+permalink: /casestudy/01-background/
 title: "Background Information and Ethical Focus"
 layout: single
 ---
@@ -16,5 +16,7 @@ The main ethical concern is racial bias caused by unrepresentative and insuffici
 
 This case study will explore these issues by applying the Ethical Decision-Making Framework to the challenges surrounding racial bias in AI skin cancer diagnostic tools. Through this analysis, the study aims to evaluate potential actions, assess their ethical implications, and determine how healthcare organizations can implement AI responsibly while protecting all patients.
 
+*To read more about Ethical focus please visit This page [Ethical Focus](ethicalfocus/)*
 
-[⬅️ Back to Main Case study](/ethics_fall2025/casestudy)
+[⬅️ Back to Background page](/ethics_fall2025/01-background)
+

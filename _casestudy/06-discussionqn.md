@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/discussionqn/
+permalink: /casestudy/06-discussionqn/
 title: "Discussion Questions"
 layout: single
 --- 

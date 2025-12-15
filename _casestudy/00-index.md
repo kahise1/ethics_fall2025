@@ -14,15 +14,15 @@ This case study examines racial bias in AI skin-cancer diagnostic tools, focusin
 ---
 
 ## Choose a section to explore:
-[Background Information & Ethical Focus](background/)
+[Background Information & Ethical Focus](01-background/)
 
 Learn about AI in healthcare and how it is used for skin cancer detection and how ethical frameworks are embedded on the issue.  
 
-[Data and Bia](databias/)
+[Data and Bia](02-databias/)
 
 Explore how training datasets can create racial bias and affect diagnostic accuracy.
 
-[Let's Talk about stakeholders](stakeholders/)
+[Let's Talk about stakeholders](03-stakeholders/)
 
 Discover who is affected by AI in dermatology and what their responsibilities are.  
 - **Patients** (especially darker-skin patients): need safe, fair diagnoses
@@ -32,19 +32,19 @@ Discover who is affected by AI in dermatology and what their responsibilities ar
 - **Government/regulators**: protect public health and fairness
 - **Society**: wants equal access to accurate medical care
 
-[Go to activity page](activity/)
+[Go to activity page](04-activity/)
 
 Engage in an interactive exercise to see the effects of biased AI in clinical scenarios.  
 
-[Audience Pages:](audience/)
+[Audience Pages:](05-audience/)
 
 Tailored guidance for:
 - Patients and Healthcare Users
 - Meidcal Professionslas and Hospitals
 - AI Developers and Policymakers
 
-[Discussion Questions](discussionqn/)
+[Discussion Questions](06-discussionqn/)
 
 Five questions to reflect on key issues like fairness, accountability, and AI’s role in healthcare.  
 
-[Citation](citations/)
+[Citation](07-citations/)

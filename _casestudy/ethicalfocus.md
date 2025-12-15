@@ -37,3 +37,4 @@ Assentially, addressing racial bias in AI skin cancer diagnostics is not just a 
 
 
 [⬅️ Back to Main Case study](/ethics_fall2025/casestudy)
+[⬅️ Back to Main Case study](/ethics_fall2025/casestudy)

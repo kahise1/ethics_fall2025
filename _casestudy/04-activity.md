@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/activity/
+permalink: /casestudy/04-activity/
 title: "Activity: Spot the Bias – AI in Dermatology"
 layout: single
 ---

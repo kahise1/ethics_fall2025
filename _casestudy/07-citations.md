@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/citations/
+permalink: /casestudy/07-citations/
 title: "Citations"
 layout: single
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/audience/
+permalink: /casestudy/05-audience/
 title: "Audience "
 layout: single
 ---

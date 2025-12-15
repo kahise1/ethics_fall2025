@@ -1,5 +1,5 @@
 ---
-permalink: /casestudy/databias/
+permalink: /casestudy/02-databias/
 title: "Data and Bias"
 layout: single
 ---
