@@ -54,3 +54,7 @@ These are the stakeholders I am lookingforward to explore on my case study.
 	**AI companies**: build tools and must fix bias issues
 	**Government/regulators**: protect public health and fairness
 	**Society**: wants equal access to accurate medical care
+
+
+
+[← Back to Main Case study](/ethics_fall2025/casestudy)

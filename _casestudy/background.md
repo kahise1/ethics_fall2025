@@ -18,3 +18,6 @@ Understanding this issue requires examining both what is known and what remains 
 Several groups have direct stakes in this issue. Patients rely on fair and accurate diagnoses; clinicians depend on trustworthy tools; hospitals must balance innovation with risk management; AI developers are responsible for producing reliable systems; government agencies create regulations that protect public health; and society as a whole benefits when healthcare technology reduces, rather than worsen inequalities. Because patient well-being is the most directly impacted, ensuring safety and fairness in AI diagnostics is a central priority.
 
 This case study will explore these issues by applying the Ethical Decision-Making Framework to the challenges surrounding racial bias in AI skin cancer diagnostic tools. Through this analysis, the study aims to evaluate potential actions, assess their ethical implications, and determine how healthcare organizations can implement AI responsibly while protecting all patients.
+
+
+[← Back to Main Case study](/ethics_fall2025/casestudy)
