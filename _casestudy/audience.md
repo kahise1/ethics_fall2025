@@ -12,3 +12,5 @@ AI can improve workflow, diagnostic accuracy, and patient care—but biased AI c
 
 ## AI Developers and Policymakers
 Developers and regulators play a key role in ensuring AI is fair, accurate, and accountable. Learn why diverse datasets, transparency, bias testing, and collaboration with clinicians are essential to prevent harm and promote equitable healthcare outcomes.
+
+[⬅️ Back to Main Case study](/ethics_fall2025/casestudy)

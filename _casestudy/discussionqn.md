@@ -17,3 +17,5 @@ layout: single
 
 5. **Should AI fairness be legally required in healthcare? Why or why not?**  
    Consider how policy, law, and ethical standards might enforce equitable AI use and protect patients.
+
+[⬅️ Back to Main Case study](/ethics_fall2025/casestudy)

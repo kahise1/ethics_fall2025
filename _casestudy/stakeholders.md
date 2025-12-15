@@ -3,7 +3,6 @@ permalink: /casestudy/stakeholders/
 title: "Stakeholders"
 layout: single
 ---
-**STAKEHOLDERS:**
 ## 1. Patients (Especially Darker-Skin Patients)
 Patients are the most directly affected stakeholders, and their well-being lies at the center of this ethical issue. AI-driven dermatology tools may misdiagnose or under-diagnose lesions in darker-skinned patients due to biased or insufficiently diverse training datasets, potentially delaying treatment for serious conditions like melanoma.
 
